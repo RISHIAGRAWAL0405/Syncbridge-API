@@ -9,6 +9,20 @@ using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var dbConnection = builder.Configuration.GetConnectionString("DbConnection");
+if (string.IsNullOrWhiteSpace(dbConnection))
+{
+    throw new InvalidOperationException(
+        "Missing database connection string. Set the ConnectionStrings__DbConnection environment variable.");
+}
+
+var jwtSecret = builder.Configuration["JwtSettings:Secret"];
+if (string.IsNullOrWhiteSpace(jwtSecret) || Encoding.UTF8.GetByteCount(jwtSecret) < 32)
+{
+    throw new InvalidOperationException(
+        "JwtSettings:Secret must be configured with a secret of at least 32 UTF-8 bytes. Set the JwtSettings__Secret environment variable.");
+}
+
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
@@ -59,7 +73,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuerSigningKey = true,
             ValidIssuer = settings["Issuer"],
             ValidAudience = settings["Audience"],
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(settings["Secret"]))
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSecret))
         };
     });
 
