@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\bin\Debug\net8.0\PhotographyPortfolioAPI.Core.deps.json
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\bin\Debug\net8.0\PhotographyPortfolioAPI.Core.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\bin\Debug\net8.0\PhotographyPortfolioAPI.Core.pdb
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.sourcelink.json
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\refint\PhotographyPortfolioAPI.Core.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\PhotographyPortfolioAPI.Core.pdb
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\ref\PhotographyPortfolioAPI.Core.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Core\obj\Debug\net8.0\Photogra.809D0FCA.Up2Date

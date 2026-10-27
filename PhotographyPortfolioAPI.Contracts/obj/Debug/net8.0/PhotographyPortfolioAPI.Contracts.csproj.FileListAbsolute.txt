@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\bin\Debug\net8.0\PhotographyPortfolioAPI.Contracts.deps.json
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\bin\Debug\net8.0\PhotographyPortfolioAPI.Contracts.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\bin\Debug\net8.0\PhotographyPortfolioAPI.Contracts.pdb
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\bin\Debug\net8.0\PhotographyPortfolioAPI.Core.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\bin\Debug\net8.0\PhotographyPortfolioAPI.Core.pdb
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.sourcelink.json
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\Photogra.AFAD2AB6.Up2Date
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\refint\PhotographyPortfolioAPI.Contracts.dll
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\PhotographyPortfolioAPI.Contracts.pdb
+C:\Users\Administrator\Desktop\syncbridge\MIT-FIrst\PhotographyPortfolioAPI\PhotographyPortfolioAPI.Contracts\obj\Debug\net8.0\ref\PhotographyPortfolioAPI.Contracts.dll
